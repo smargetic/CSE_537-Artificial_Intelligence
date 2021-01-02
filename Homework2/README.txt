@@ -1,0 +1,1 @@
+To start the program, write "./homework2.py inputFileName.txt". The file name should be provided as a relative location.
